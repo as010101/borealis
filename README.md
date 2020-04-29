@@ -25,4 +25,6 @@ doxygen   代码文档生成器
 
 Ocv     Used for Array processing (ASAP)
 
+gcc地址  https://gcc.gnu.org/pub/gcc/releases/gcc-4.1.1/
+
 
